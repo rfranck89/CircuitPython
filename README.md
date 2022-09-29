@@ -29,7 +29,7 @@ Code goes here
 
 And here is how you should give image credit to someone, if you use their work:
 
-[ ](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
+[.](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
 
 
 
