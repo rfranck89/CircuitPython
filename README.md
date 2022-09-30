@@ -57,8 +57,7 @@ https://user-images.githubusercontent.com/113116288/193276612-0931fee5-91f0-47a9
 
 
 ### Wiring
-![image](https://user-images.githubusercontent.com/113116288/193279561-7b09b336-06ac-4537-8e0a-994d6030b87b.png)
-
+![Screenshot (1)](https://user-images.githubusercontent.com/113116288/193279830-ef8dde32-f2db-4713-8ab5-5f8bee88cbbc.png)
 ### Reflection
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
 
