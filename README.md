@@ -11,9 +11,9 @@ This repository will actually serve as a aid to help you get started with your o
 ## Hello_CircuitPython
 
 ### Description & Code
-Description goes here
+in this assignment, we had to make an LED blink red, and for the spicy part, we had to make the LED change colors.
 
-Here's how you make code look like code:
+
 
 ```python
 import time
@@ -45,7 +45,10 @@ while True:
 ### Evidence
 
 
-![spinningMetro_Optimized](https://user-images.githubusercontent.com/54641488/192549584-18285130-2e3b-4631-8005-0792c2942f73.gif)
+
+
+https://user-images.githubusercontent.com/113116288/193276612-0931fee5-91f0-47a9-a4f0-216d54c9bee1.mp4
+
 
 
 And here is how you should give image credit to someone, if you use their work:
