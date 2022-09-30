@@ -51,15 +51,13 @@ https://user-images.githubusercontent.com/113116288/193276612-0931fee5-91f0-47a9
 
 
 
-And here is how you should give image credit to someone, if you use their work:
 
 [.](https://www.youtube.com/watch?v=dQw4w9WgXcQ&scrlybrkr=8931d0bc)
 
 
 
 ### Wiring
-Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
+![image](https://user-images.githubusercontent.com/113116288/193279561-7b09b336-06ac-4537-8e0a-994d6030b87b.png)
 
 ### Reflection
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
