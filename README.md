@@ -65,7 +65,9 @@ nothing went wrong with this assignment.
 
 ## CircuitPython_Servo
 
+
 ### Description & Code
+in this assignment, we were supposed to make a servo rotate between 0 and 180 degrees, going 5 degrees at a time.
 
 ```python
 import time
@@ -102,6 +104,7 @@ nothing really challenging happened on this assignment
 ## CircuitPython_Ultrasonic
 
 ### Description & Code
+in this assignment, we were supposed to make a LED change color based on how far away the ultrasonic sensor was from a surface
 
 ```python
 import board
